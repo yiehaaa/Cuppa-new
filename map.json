@@ -8,8 +8,7 @@
         },
      "export":
         {
-         "format":"json",
-         "target":"..\/..\/Documents\/GitHub\/Disco\/map.json"
+         "format":"json"
         }
     },
  "height":34,
